@@ -32,3 +32,34 @@ Follow these steps for completing your project.
 
 
 
+<!-- saving my code in case it wasn't garbage.
+@media(max-width: 800px){
+    .home header {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    header .logo {
+        width: 183px;
+        margin: 0;
+        padding: 0;
+    }
+    .home header nav {
+        width: 98%;
+        justify-content: space-around;
+    }
+
+    .cta {
+        display: flex;
+        justify-content: center;
+    }
+    .cta img {
+        display: none;
+}
+
+@media(max-width: 500px){
+    header nav {
+        display: inline-block;
+    }
+} -->
